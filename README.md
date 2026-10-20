@@ -31,6 +31,6 @@ Needs macOS 14 Sonoma or newer. Works on Apple silicon and Intel Macs.
 ```
 
 ## Credits
-The Shift-drag ring idea comes from **[Tangerine](https://www.instagram.com/th2049/) by Thameem (@th2049)**. Go check it out. Morph is an independent rebuild written from scratch with [Claude](https://claude.ai) for [Raj Tries](https://www.instagram.com/raj_triess/), build 8 of 30. No code or assets from Tangerine are used.
+The Shift-drag ring idea comes from **Tangerine by Thameem (@th2049)**. Go check it out. Morph is an independent rebuild written from scratch with [Claude](https://claude.ai) for [Raj Tries](https://www.instagram.com/raj_triess/), build 8 of 30. No code or assets from Tangerine are used.
 
 MIT licence.
